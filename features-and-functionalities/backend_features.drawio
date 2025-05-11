@@ -1,0 +1,73 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.2 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.2">
+  <diagram name="Page-1" id="_uYVcD4_5UTCmIvEhxBO">
+    <mxGraphModel dx="1188" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1300" pageHeight="500" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="b7ZE_ieWR5MUC2Bl1V2L-1" value="Backend Features" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=25;labelBackgroundColor=#009900;" vertex="1" parent="1">
+          <mxGeometry x="520" y="40" width="255" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="b7ZE_ieWR5MUC2Bl1V2L-2" value="&lt;span style=&quot;background-color: rgb(153, 76, 0);&quot;&gt;User Authentication&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="20" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b7ZE_ieWR5MUC2Bl1V2L-3" value="&lt;span style=&quot;background-color: rgb(153, 76, 0);&quot;&gt;Property Management&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="210" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b7ZE_ieWR5MUC2Bl1V2L-4" value="&lt;span style=&quot;background-color: rgb(153, 76, 0);&quot;&gt;Search &amp;amp; Filtering&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b7ZE_ieWR5MUC2Bl1V2L-6" value="&lt;span style=&quot;background-color: light-dark(rgb(153, 76, 0), rgb(153, 76, 0));&quot;&gt;Reviews&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="970" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b7ZE_ieWR5MUC2Bl1V2L-7" value="&lt;span style=&quot;background-color: light-dark(rgb(153, 76, 0), rgb(153, 76, 0));&quot;&gt;Payments&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="780" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b7ZE_ieWR5MUC2Bl1V2L-8" value="&lt;span style=&quot;background-color: light-dark(rgb(153, 76, 0), rgb(153, 76, 0));&quot;&gt;Admin Features&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b7ZE_ieWR5MUC2Bl1V2L-5" value="&lt;font style=&quot;background-color: light-dark(rgb(153, 76, 0), rgb(153, 76, 0));&quot;&gt;Booking&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;background-color: light-dark(rgb(153, 76, 0), rgb(153, 76, 0));&quot;&gt;System&lt;/font&gt;&lt;/div&gt;" style="rounded=1;fontSize=16;fontStyle=1;verticalAlign=middle;spacingTop=0;textShadow=0;labelBorderColor=none;labelBackgroundColor=#994C00;horizontal=1;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b7ZE_ieWR5MUC2Bl1V2L-9" value="- User registration (host/guest)&lt;div&gt;- Login / Logout&lt;/div&gt;&lt;div&gt;- &lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;JWT-based token system&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- Password reset&lt;/div&gt;&lt;div&gt;- Role-based access (host, guest, admin)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=14;spacingLeft=3;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="21" y="270" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="b7ZE_ieWR5MUC2Bl1V2L-11" value="- Submit review (1-5 stars + comment)&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- View reviews for a property&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Prevent duplicate reviews&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;spacingLeft=3;align=left;" vertex="1" parent="1">
+          <mxGeometry x="970" y="270" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="b7ZE_ieWR5MUC2Bl1V2L-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- Initiate payment&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;- Integrate third-party gateway (e.g., Stripe)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;- Confirm payment status&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;- Refund logic - Transaction logs&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="780" y="270" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="b7ZE_ieWR5MUC2Bl1V2L-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Create a booking (select date, guest count)&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Check availability&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Cancel booking&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- View booking history&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Booking confirmation emails&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="590" y="270" width="120" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="b7ZE_ieWR5MUC2Bl1V2L-14" value="- Browse all properties&lt;div&gt;- Filter by location, price, amenities, dates&lt;/div&gt;&lt;div&gt;- View property details&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=14;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="400" y="270" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="b7ZE_ieWR5MUC2Bl1V2L-15" value="- Create property listing&lt;div&gt;- Upload property photos&lt;/div&gt;&lt;div&gt;- Update listing details&lt;/div&gt;&lt;div&gt;- Delete property&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=14;fontStyle=0;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="210" y="270" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="b7ZE_ieWR5MUC2Bl1V2L-17" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- View users / bookings / properties&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;- Ban or deactivate users&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;- Remove properties&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;- Generate reports&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="270" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="b7ZE_ieWR5MUC2Bl1V2L-20" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="608.5999999999999" y="-410" width="77.8" height="1139.38" as="geometry" />
+        </mxCell>
+        <mxCell id="b7ZE_ieWR5MUC2Bl1V2L-22" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="160" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b7ZE_ieWR5MUC2Bl1V2L-23" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="835" y="160" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b7ZE_ieWR5MUC2Bl1V2L-24" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="642.5" y="160" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b7ZE_ieWR5MUC2Bl1V2L-25" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1025" y="160" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b7ZE_ieWR5MUC2Bl1V2L-26" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="160" width="10" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
