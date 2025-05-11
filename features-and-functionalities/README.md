@@ -95,6 +95,7 @@ This backend application serves as the backbone of the Airbnb Clone. It provides
 
 ## 📁 Project Structure (Example)
 
+```
 airbnb-clone-backend/
 ├── api/
 │ ├── users/
@@ -107,7 +108,7 @@ airbnb-clone-backend/
 ├── tests/
 ├── requirements.txt
 └── README.md
-
+```
 
 ---
 
